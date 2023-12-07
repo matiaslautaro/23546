@@ -1,0 +1,28 @@
+/*
+*{
+    margin: 0;
+    padding: 0;
+}
+*/
+/* Body es todo el fonde de la pagina*/
+body{
+    background-color: antiquewhite;
+    
+}
+h1{
+    color: red;
+    /*Centrar el texto*/
+    text-align: center;
+}
+h2{
+    color: green;
+}
+p{
+    color: blue;
+}
+#etqAmarrilo{
+    color: yellow;
+}
+.txtNaranja{
+    color: orange;
+}
